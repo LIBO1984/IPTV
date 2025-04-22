@@ -161,6 +161,11 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
 
+☘️贵州频道,#genre#
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+清镇新闻综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
+安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
+
 ☘️重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
@@ -559,6 +564,11 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 天津卫视,http://183.66.15.146:60901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️四川频道,#genre#
+四川新闻,http://wouu.net:9977/udp/239.93.0.47:5140
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川经济,http://wouu.net:9977/udp/239.93.1.101:5140
+四川文旅,http://wouu.net:9977/udp/239.93.1.102:5140
+四川乡村,http://wouu.net:9977/udp/239.93.0.52:5140
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
@@ -758,9 +768,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 河北农民,http://php.fjl626.cn/hebei.php?id=nmpd
 河北农民,http://121.19.134.222:808/tsfile/live/1005_1.m3u8
 
-☘️贵州频道,#genre#
-七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
-清镇新闻综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
 
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
