@@ -1047,6 +1047,32 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 ☘️云南频道,#genre#
+云南都市,http://39.130.215.222:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?
+云南娱乐,http://39.130.215.222:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?
+云南生活,http://39.130.215.222:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+云南影视,http://39.130.215.222:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+云南公共,http://39.130.215.222:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+云南少儿,http://39.130.215.222:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+云南少儿,http://220.164.192.48:50085/tsfile/live/0124_1.m3u8?
+孟连,http://39.130.215.222:6410/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
+宾川,http://39.130.215.222:6410/gitv_live/G_BINCHUANTV-1/G_BINCHUANTV-1.m3u8
+宾川2,http://39.130.215.222:6410/gitv_live/G_BINCHUANTV-2/G_BINCHUANTV-2.m3u8
+弥勒,http://39.130.215.222:6410/gitv_live/G_MILE/G_MILE.m3u8
+普洱1,http://39.130.215.222:6410/gitv_live/G_PUERTV-2/G_PUERTV-2.m3u8
+景东,http://39.130.215.222:6410/gitv_live/G_JINGDONG/G_JINGDONG.m3u8
+楚雄公共,http://39.130.215.222:6410/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
+楚雄市台,http://39.130.215.222:6410/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
+楚雄新闻,http://39.130.215.222:6410/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
+永仁,http://39.130.215.222:6410/gitv_live/G_YONGREN/G_YONGREN.m3u8
+江城,http://39.130.215.169:6610/gitv_live/G_JIANGCHENG/G_JIANGCHENG.m3u8
+澜沧,http://39.130.215.222:6410/gitv_live/G_LANCANG/G_LANCANG.m3u8
+红河公共,http://39.130.215.222:6410/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
+红河新闻综合,http://39.130.215.222:6410/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
+迪庆新闻综合,http://39.130.215.222:6410/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
+迪庆藏语,http://39.130.215.222:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
+隆阳,http://39.130.215.222:6410/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
@@ -1055,9 +1081,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 西双版纳综合,http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
-云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?
-云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?
-云南少儿,http://220.164.192.48:50085/tsfile/live/0124_1.m3u8?
+
 
 ☘️青海频道,#genre#
 安多卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=58d8c4&tk=822270345d4c
