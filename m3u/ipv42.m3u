@@ -177,7 +177,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226289/1/index.m3u8?fmt=ts2hls
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
-贵阳1 2.5M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
 贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226311/1/index.m3u8?fmt=ts2hls
 贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 六盘水1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
@@ -188,6 +188,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 安顺公共,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226034/1/index.m3u8?fmt=ts2hls
 安顺新闻综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226241/1/index.m3u8?fmt=ts2hls
 安顺新闻综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226054/1/index.m3u8?fmt=ts2hls
+安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 思南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226299/1/index.m3u8?fmt=ts2hls
 毕节1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226113/1/index.m3u8?fmt=ts2hls
 毕节1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226002/1/index.m3u8?fmt=ts2hls
@@ -210,7 +211,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 黔西新闻,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 清镇新闻综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
-安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
+
 
 ☘️重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
